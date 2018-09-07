@@ -1,0 +1,11 @@
+C:\Users\Kyle\Documents\C#-.NET\Fundamentals_I\bin\Debug\netcoreapp2.0\Fundamentals_I.deps.json
+C:\Users\Kyle\Documents\C#-.NET\Fundamentals_I\bin\Debug\netcoreapp2.0\Fundamentals_I.runtimeconfig.json
+C:\Users\Kyle\Documents\C#-.NET\Fundamentals_I\bin\Debug\netcoreapp2.0\Fundamentals_I.runtimeconfig.dev.json
+C:\Users\Kyle\Documents\C#-.NET\Fundamentals_I\bin\Debug\netcoreapp2.0\Fundamentals_I.dll
+C:\Users\Kyle\Documents\C#-.NET\Fundamentals_I\bin\Debug\netcoreapp2.0\Fundamentals_I.pdb
+C:\Users\Kyle\Documents\C#-.NET\Fundamentals_I\obj\Debug\netcoreapp2.0\Fundamentals_I.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\Documents\C#-.NET\Fundamentals_I\obj\Debug\netcoreapp2.0\Fundamentals_I.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\Documents\C#-.NET\Fundamentals_I\obj\Debug\netcoreapp2.0\Fundamentals_I.AssemblyInfoInputs.cache
+C:\Users\Kyle\Documents\C#-.NET\Fundamentals_I\obj\Debug\netcoreapp2.0\Fundamentals_I.AssemblyInfo.cs
+C:\Users\Kyle\Documents\C#-.NET\Fundamentals_I\obj\Debug\netcoreapp2.0\Fundamentals_I.dll
+C:\Users\Kyle\Documents\C#-.NET\Fundamentals_I\obj\Debug\netcoreapp2.0\Fundamentals_I.pdb
